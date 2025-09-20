@@ -1,7 +1,7 @@
 # [Priest] Empower Champion
 Small addon for maintaining Empower Champion on Proclaimed players.
 
-[SuperWoW](https://github.com/balakethelock/SuperWoW) is requried.
+[SuperWoW](https://github.com/balakethelock/SuperWoW) is required.
 
 ## Usage
 That addon provides next command for maintaining **Empower Buffs**
