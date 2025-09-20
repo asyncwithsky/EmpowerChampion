@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: [|cFFFFFFFFPriest|r] |cFFe81515Empower|r|cFFFFFFFFChampion|r
+## Notes: Helper addon for maintaing Empower Champion buff on your chosen target.
+## Author: zakha
+
+EmpowerChampion.lua
